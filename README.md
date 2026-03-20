@@ -6,7 +6,9 @@ Our solution targets gig workers such as Zomato, Swiggy, and delivery partners w
 loss due to external disruptions like weather, pollution, or curfews.
 
 1 Persona: Food delivery partner working daily for earnings
+
 2 Problem: Sudden disruptions reduce daily income
+
 3 Solution: AI-based system predicts, prevents, and protects income
 
 # Workflow of Application
