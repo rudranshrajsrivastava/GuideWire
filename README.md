@@ -29,7 +29,7 @@ loss due to external disruptions like weather, pollution, or curfews.
 
 The platform follows a weekly micro-insurance model aligned with gig worker earnings.
 
-1 Premium range: ■10–■50/week based on risk
+1 Premium range: 10–50/week based on risk
 
 2 Dynamic pricing using ML models
 
@@ -69,7 +69,7 @@ The platform follows a weekly micro-insurance model aligned with gig worker earn
 
 # Tech Stack
 
-1 Frontend: React / Next.js
+1 Frontend: Next.js
 
 2 Backend: Node.js / Flask
 
